@@ -1,0 +1,16 @@
+{
+  "name": "fishy-nodevember",
+  "version": "0.0.1",
+  "description": "Cephalopod Taxonomy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nvcexploder",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "11.1.1",
+    "request": "2.65.0",
+    "wreck": "7.0.0"
+  }
+}
