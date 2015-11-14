@@ -6,7 +6,7 @@ This is an easy way to enter into the Microsoft Azure Nodevember Competition!
 
 There is an easier way, from [Sarah Sexton](https://github.com/SarahSexton) here: [Microsoft Azure](https://github.com/SarahSexton/NodevemberMS/blob/master/README.md)
 
-The difference here is that you'll need to set up your Azure account, add an app, and add a new Azure remote to which you can push your code. A good tutorial can be found [here](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
+The difference here is that you'll need to set up your Azure account, add an app, and add a new Azure remote to which you can push your code. A good tutorial can be found [here](http://blogs.msdn.com/b/sarahsays/archive/2015/08/31/building-your-first-node-js-app-and-publishing-to-azure.aspx) and [here](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
 
 ## Whatsit do?
 
